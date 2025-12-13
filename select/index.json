@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "メリッサ",
+  "base_artist": "ポルノグラフィティ",
+  "createdAt": "2025-12-13T12:47:00.166480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メリッサ",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/01_メリッサ_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メリッサ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/02_メリッサ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メリッサ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/03_メリッサ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メリッサ",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/04_メリッサ_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メリッサ",
+      "artist": "Porno Graffitti (ポルノグラフィティ)",
+      "has_synced": true,
+      "path": "select/05_メリッサ_Porno_Graffitti_(ポルノグラフィティ).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メリッサ - Melissa",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/06_メリッサ_-_Melissa_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メリッサ",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/07_メリッサ_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Melissa (メリッサ)",
+      "artist": "Pornograffitti (ポルノグラフィティ)",
+      "has_synced": true,
+      "path": "select/08_Melissa_(メリッサ)_Pornograffitti_(ポルノグラフィティ).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メリッサ",
+      "artist": "Argonavis",
+      "has_synced": true,
+      "path": "select/09_メリッサ_Argonavis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メリッサ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/10_メリッサ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wonder NeverLand (ジョー・力一, 健屋花那, 鈴原るる, 不破湊, メリッサ・キンレンカ, リゼ・ヘルエスタ)",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/11_Wonder_NeverLand_(ジョー・力一,_健屋花那,_鈴原るる,_不破湊,_メリッサ・キンレンカ,_リゼ・ヘルエスタ)_にじさんじ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メリッサ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_メリッサ_ポルノグラフィティ.txt"
+    }
+  ]
+}
